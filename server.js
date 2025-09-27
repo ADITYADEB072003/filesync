@@ -59,6 +59,11 @@ const upload = multer({ storage: storage });
 // ✅ Serve uploaded files statically
 app.use("/uploads", express.static(uploadDir));
 
+// ✅ Serve the HTML file at root
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "index.html"));
+});
+
 // ✅ POST /upload → upload file
 app.post("/upload", upload.single("file"), (req, res) => {
   if (!req.file) {
