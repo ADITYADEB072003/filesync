@@ -1,0 +1,549 @@
+
+
+
+HDFC BANK Ltd.                                     Page No .:   1                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+                      Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+02/08/25  POS 435584XXXXXX6983 SWIGGY INSTAMART     0000521409148393  02/08/25             157.00                               2,349.01   
+03/08/25  POS 435584XXXXXX6983 ZOMATO               0000521513256896  03/08/25             373.00                               1,976.01   
+03/08/25  UPI-RAJNISH   DEB-9954093897@PTYES-CNRB0  0000688642726736  03/08/25                                373.00            2,349.01   
+          000033-688642726736-SENT FROM PAYTM                                                                                               
+03/08/25  POS 435584XXXXXX6983 PAY*SWIGGY           0000521515898958  03/08/25             230.00                               2,119.01   
+03/08/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000688651275009  03/08/25                              5,000.00            7,119.01   
+          4678-688651275009-AUG 25                                                                                                          
+03/08/25  UPI-SAHIL-8368592078@IBL-KKBK0004588-521  0000521571778383  04/08/25             295.00                               6,824.01   
+          571778383-SENT USING PAYTM U                                                                                                      
+03/08/25  UPI-SAHIL-8368592078@IBL-KKBK0004588-521  0000521571806351  04/08/25             295.00                               6,529.01   
+          571806351-SENT USING PAYTM U                                                                                                      
+04/08/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101130733081  04/08/25              99.00                               6,430.01   
+          DSI@HDFCBANK-HDFC0MERUPI-101130733081-UP                                                                                          
+          I MANDATE                                                                                                                         
+06/08/25  UPI-ZOMATO PRIVATE LIMIT-ZOMATO.PAYU@AXI  0000521805879604  06/08/25             204.00                               6,226.01   
+          SBANK-UTIB0000000-521805879604-UPIINTENT                                                                                          
+08/08/25  UPI-ZOMATO PRIVATE LIMIT-ZOMATO.PAYU@AXI  0000522033973366  08/08/25             204.00                               6,022.01   
+          SBANK-UTIB0000000-522033973366-UPIINTENT                                                                                          
+10/08/25  POS 435584XXXXXX6983 ZOMATO               0000522213565818  10/08/25             347.80                               5,674.21   
+11/08/25  UPI-ASTROTALK SERVICES P-PAYTM-30927089@  0000522368414168  11/08/25             118.00                               5,556.21   
+          PTYBL-YESB0PTMUPI-522368414168-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+11/08/25  ACH D- TP ACH INDIANESIGN-1907848894      0000002261710636  11/08/25           1,000.00                               4,556.21   
+11/08/25  ME DC SI 435584XXXXXX6983 GOOGLE CLOUD    0000522308772730  11/08/25               2.00                               4,554.21   
+                                                                                                                                            
+11/08/25  UPI-ADITYA DEB  CHOWDHUR-8822245112@PTHD  0000522374371919  11/08/25                              1,000.00            5,554.21   
+          FC-IOBA0000420-522374371919-NA                                                                                                    
+15/08/25  UPI-KAVALRY TECHNOLOGIES-KAVALRYTECHNOLO  0000522725622689  15/08/25              99.00                               5,455.21   
+          766884.RZP@RXAIRTEL-AIRP0000011-52272562                                                                                          
+          2689-PAYMENTTOKAVALRYTE                                                                                                           
+16/08/25  SI HGAIP1572C0531360081 AIRTEL -15/08/25  000000000000000   16/08/25             824.82                               4,630.39   
+16/08/25  POS 435584XXXXXX6983 ZOMATO               0000522812108927  16/08/25             521.05                               4,109.34   
+16/08/25  UPI-LOPAMUDRA DEB-LOPADEB75@OKHDFCBANK-S  0000109906108039  16/08/25                                521.00            4,630.34   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   2                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          IBL0000473-109906108039-EVENING SNACKS                                                                                            
+17/08/25  POS 435584XXXXXX6983 DPENTERPRISE         0000522912565388  17/08/25           2,780.00                               1,850.34   
+17/08/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000689279592270  17/08/25                              2,780.00            4,630.34   
+          4678-689279592270-SENT FROM PAYTM                                                                                                 
+17/08/25  UPI-PAPYRUS ONE-Q272650119@YBL-YESB0YBLU  0000522955431540  17/08/25           1,858.00                               2,772.34   
+          PI-522955431540-SENT USING PAYTM U                                                                                                
+17/08/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000388076370363  17/08/25                              1,858.00            4,630.34   
+          4678-388076370363-FATBELLY                                                                                                        
+18/08/25  UPI-RAKSHITH J-IRAKSHITH2000-85@OKHDFCBA  0000523066095725  18/08/25             100.00                               4,530.34   
+          NK-BARB0NORTHB-523066095725-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+18/08/25  UPI-LOYANS BAKERY AND CO-VYAPAR.17478566  0000523067798539  18/08/25             310.00                               4,220.34   
+          4711@HDFCBANK-HDFC0MERUPI-523067798539-S                                                                                          
+          ENT USING PAYTM U                                                                                                                 
+18/08/25  UPI-ISHAN GOUTAM  BARUAH-BARUAHAKU143@OK  0000559617415456  18/08/25                                110.00            4,330.34   
+          AXIS-SBIN0007976-559617415456-UPI                                                                                                 
+18/08/25  UPI-SATHIC GUHA CHOUDHUR-SATHICGUHACHOUD  0000523036701916  18/08/25                                110.00            4,440.34   
+          HARY@OKSBI-FDRL0001924-523036701916-UPI                                                                                           
+18/08/25  UPI-PAPYRUS ONE-Q272650119@YBL-YESB0YBLU  0000523068441477  18/08/25             346.00                               4,094.34   
+          PI-523068441477-SENT USING PAYTM U                                                                                                
+18/08/25  UPI-ISHAN GOUTAM  BARUAH-BARUAHAKU143@OK  0000523039924551  18/08/25                                115.00            4,209.34   
+          SBI-SBIN0007976-523039924551-UPI                                                                                                  
+18/08/25  UPI-SATHIC GUHA CHOUDHUR-SATHICGUHACHOUD  0000523041223167  18/08/25                                115.00            4,324.34   
+          HARY@OKSBI-FDRL0001924-523041223167-UPI                                                                                           
+18/08/25  UPI-RAKSHITH J-IRAKSHITH2000-85@OKHDFCBA  0000523069554885  18/08/25             500.00                               3,824.34   
+          NK-BARB0NORTHB-523069554885-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+20/08/25  UPI-ASTROTALK SERVICES P-PAYTM-30927089@  0000523284030471  20/08/25             118.00                               3,706.34   
+          PTYBL-YESB0PTMUPI-523284030471-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+20/08/25  UPI-ASTROTALK SERVICES P-PAYTM-30927089@  0000523284132670  20/08/25             118.00                               3,588.34   
+          PTYBL-YESB0PTMUPI-523284132670-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   3                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+21/08/25  CRV POS 435584******6983      GOOGLE CLO  000000000000000   21/08/25                                  2.00            3,590.34   
+22/08/25  ACH D- TP ACH INDIANESIGN-1914995184      0000002636258629  22/08/25           1,000.00                               2,590.34   
+22/08/25  UPI-VINAY  NISHAD-VINAYNIDHAD-2@OKICICI-  0000523414890981  22/08/25             147.00                               2,443.34   
+          SBIN0011230-523414890981-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+22/08/25  NEFT CR-CIUB0000117-DIROFSCIENCEANDHUMAN  CIUBN52025082234  22/08/25                            175,000.00          177,443.34   
+          ITIES-ADITYADEBCHOWDHURY-CIUBN5202508223  053191                                                                                  
+          4053191                                                                                                                           
+22/08/25  UPI-LOPAMUDRA DEB-LOPADEB75@OKHDFCBANK-S  0000110180140925  22/08/25                                140.00          177,583.34   
+          IBL0000473-110180140925-ANARDANA                                                                                                  
+22/08/25  UPI-ODC OVER D COUNTER-Q963509842@YBL-YE  0000523416521852  22/08/25             140.00                             177,443.34   
+          SB0YBLUPI-523416521852-SENT USING PAYTM                                                                                           
+          U                                                                                                                                 
+23/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000523523786956  23/08/25          25,000.00                             152,443.34   
+          04678-523523786956-NA                                                                                                             
+23/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000523523825506  23/08/25          25,000.00                             127,443.34   
+          04678-523523825506-NA                                                                                                             
+23/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000523523839128  23/08/25          25,000.00                             102,443.34   
+          04678-523523839128-NA                                                                                                             
+23/08/25  UPI-ADITYA DEB  CHOWDHUR-8822245112@PTHD  0000523532197606  24/08/25                                140.00          102,583.34   
+          FC-IOBA0000420-523532197606-NA                                                                                                    
+27/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000523975994388  27/08/25          25,000.00                              77,583.34   
+          04678-523975994388-NA                                                                                                             
+27/08/25  POS 435584XXXXXX6983 SWIGGY INSTAMART     0000523906564767  27/08/25             111.00                              77,472.34   
+27/08/25  POS 435584XXXXXX6983 ZOMATO               0000523908650356  27/08/25             459.10                              77,013.24   
+28/08/25  UPI-THE GUWAHATI DAIRY-PAYTMQR12HFZZERQR  0000524095242174  28/08/25              40.00                              76,973.24   
+          @PAYTM-YESB0PTMUPI-524095242174-NA                                                                                                
+29/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-ICIC00  0000524102336481  29/08/25                                800.00           77,773.24   
+          05512-524102336481-DR SB MEHDI                                                                                                    
+29/08/25  UPI-SARVODAYA HEALTHCARE-VYAPAR.17164933  0000524103348361  29/08/25             100.00                              77,673.24   
+          2874@HDFCBANK-HDFC0MERUPI-524103348361-S                                                                                          
+          ENT USING PAYTM U                                                                                                                 
+29/08/25  POS 435584XXXXXX6983 ZOMATO               0000524107158244  29/08/25             428.91                              77,244.33   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   4                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+29/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000524114099975  29/08/25          25,000.00                              52,244.33   
+          04678-524114099975-NA                                                                                                             
+30/08/25  ME DC SI 435584XXXXXX6983 YOUTUBEGOOGLE   0000524217077595  30/08/25              89.00                              52,155.33   
+                                                                                                                                            
+31/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000524340366317  31/08/25          25,000.00                              27,155.33   
+          04678-524340366317-NA                                                                                                             
+31/08/25  POS 435584XXXXXX6983 ZOMATO               0000524313658680  31/08/25             375.36                              26,779.97   
+31/08/25  UPI-LOPAMUDRA DEB-LOPADEB75-1@OKHDFCBANK  0000110599219143  31/08/25                                375.00           27,154.97   
+          -HDFC0004678-110599219143-BURRITO                                                                                                 
+31/08/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000524340440028  31/08/25          25,000.00                               2,154.97   
+          04678-524340440028-NA                                                                                                             
+01/09/25  POS 435584XXXXXX6983 ZOMATO               0000524407141459  01/09/25             428.91                               1,726.06   
+01/09/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000524451148505  01/09/25                                428.00            2,154.06   
+          04678-524451148505-MOMO                                                                                                           
+03/09/25  POS 435584XXXXXX6983 ZOMATO               0000524613244455  03/09/25             196.86                               1,957.20   
+04/09/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101381091673  04/09/25              99.00                               1,858.20   
+          DSI@HDFCBANK-HDFC0MERUPI-101381091673-UP                                                                                          
+          I MANDATE                                                                                                                         
+06/09/25  UPI-HRISHIKESH BHARALI-HRISHIKESHBHARALI  0000561536612213  06/09/25                                286.00            2,144.20   
+          5469@OKAXIS-UTIB0003396-561536612213-COR                                                                                          
+          NER CAFE                                                                                                                          
+10/09/25  ACH D- TP ACH INDIANESIGN-1940274122      0000003139355372  10/09/25           1,000.00                               1,144.20   
+10/09/25  UPI-ADITYA DEB  CHOWDHUR-8822245112@PTHD  0000525397771315  10/09/25                              1,000.00            2,144.20   
+          FC-IOBA0000420-525397771315-NA                                                                                                    
+10/09/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000389147660207  10/09/25                              5,000.00            7,144.20   
+          4678-389147660207-SEPT25                                                                                                          
+11/09/25  UPI-MR NABAJIT  DEKA-Q16027887@YBL-YESB0  0000525415388103  11/09/25             147.00                               6,997.20   
+          YBLUPI-525415388103-SENT USING PAYTM U                                                                                            
+12/09/25  UPI-LOPAMUDRA DEB-LOPADEB75@OKHDFCBANK-S  0000111149672783  12/09/25                                147.00            7,144.20   
+          IBL0000473-111149672783-UPI                                                                                                       
+12/09/25  UPI-SANJAY KUMAR THAKUR-Q374803879@YBL-Y  0000525530467193  12/09/25             250.00                               6,894.20   
+          ESB0YBLUPI-525530467193-SENT USING PAYTM                                                                                          
+          U                                                                                                                                 
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   5                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+15/09/25  UPI-ISHAN GOUTAM  BARUAH-BARUAHAKU143@OK  0000525830859239  15/09/25                                350.00            7,244.20   
+          SBI-SBIN0007976-525830859239-UPI                                                                                                  
+15/09/25  UPI-MS AASTHA DAS-EAZYPAY.NTB1100068208@  0000525868930021  15/09/25           1,050.00                               6,194.20   
+          ICICI-ICIC0DC0099-525868930021-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+15/09/25  UPI-SATHIC GUHA CHOUDHUR-SATHICGUHACHOUD  0000525831538839  15/09/25                                350.00            6,544.20   
+          HARY@OKSBI-FDRL0001924-525831538839-UPI                                                                                           
+16/09/25  SI HGAIP12B4D0790585697 AIRTEL -16/09/25  000000000000000   16/09/25             824.82                               5,719.38   
+22/09/25  ACH D- TP ACH INDIANESIGN-1946813643      0000003133780571  22/09/25           1,000.00                               4,719.38   
+22/09/25  POS 435584XXXXXX6983 ZOMATO               0000526514876689  22/09/25             345.20                               4,374.18   
+24/09/25  UPI-SIDDHANT CHATTERJEE-SIDDZ2003-1@OKAX  0000563319230475  24/09/25                                414.00            4,788.18   
+          IS-PUNB0465100-563319230475-UPI                                                                                                   
+24/09/25  UPI-SANJAY PATOWARY-SANJAYPATOWARY2211@O  0000526774170039  24/09/25             828.00                               3,960.18   
+          KAXIS-IOBA0000420-526774170039-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+25/09/25  POS 435584XXXXXX6983 ZOMATO               0000526808163385  25/09/25             469.40                               3,490.78   
+25/09/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000526889145307  25/09/25                                400.00            3,890.78   
+          04678-526889145307-FOR LUNCH                                                                                                      
+26/09/25  POS 435584XXXXXX6983 ZOMATO               0000526914127711  26/09/25             416.65                               3,474.13   
+28/09/25  UPI-DEVI SINGH MALI-MAHIMAKURASHI@OKSBI-  0000111875757122  28/09/25              40.00                               3,434.13   
+          AIRP0000001-111875757122-PAY BY WHATSAPP                                                                                          
+28/09/25  POS 435584XXXXXX6983 ODC OVER D COUNT     0000527114330641  28/09/25           1,196.00                               2,238.13   
+28/09/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000691395997149  28/09/25                              1,196.00            3,434.13   
+          4678-691395997149-SENT FROM PAYTM                                                                                                 
+29/09/25  UPI-ODC OVERDCOUNTER-Q328510760@YBL-YESB  0000527235918640  29/09/25             200.00                               3,234.13   
+          0YBLUPI-527235918640-SENT USING PAYTM U                                                                                           
+29/09/25  UPI-ODC OVERDCOUNTER-Q328510760@YBL-YESB  0000527235937373  29/09/25             100.00                               3,134.13   
+          0YBLUPI-527235937373-SENT USING PAYTM U                                                                                           
+29/09/25  UPI-LOYANS BAKERY AND CO-VYAPAR.17478566  0000527238271731  29/09/25             210.00                               2,924.13   
+          4711@HDFCBANK-HDFC0MERUPI-527238271731-S                                                                                          
+          ENT USING PAYTM U                                                                                                                 
+29/09/25  UPI-LOYANS BAKERY AND CO-VYAPAR.17478566  0000527238282119  29/09/25             655.00                               2,269.13   
+          4711@HDFCBANK-HDFC0MERUPI-527238282119-S                                                                                          
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   6                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          ENT USING PAYTM U                                                                                                                 
+29/09/25  UPI-SATHIC GUHA CHOUDHUR-SATHICGUHACHOUD  0000527266041557  29/09/25                                164.00            2,433.13   
+          HARY@OKSBI-FDRL0001924-527266041557-UPI                                                                                           
+29/09/25  UPI-SIDDHANT CHATTERJEE-SIDDZ2003-2@OKHD  0000111943895436  29/09/25                                164.00            2,597.13   
+          FCBANK-PUNB0465100-111943895436-UPI                                                                                               
+29/09/25  UPI-ISHAN GOUTAM  BARUAH-BARUAHAKU143@OK  0000527263730093  29/09/25                                150.00            2,747.13   
+          ICICI-SBIN0007976-527263730093-UPI                                                                                                
+29/09/25  UPI-SIDDHANT CHATTERJEE-SIDDZ2003-2@OKHD  0000111945369356  29/09/25                                150.00            2,897.13   
+          FCBANK-PUNB0465100-111945369356-UPI                                                                                               
+29/09/25  UPI-LOPAMUDRA DEB-LOPADEB75@OKHDFCBANK-S  0000111946908178  29/09/25                                210.00            3,107.13   
+          IBL0000473-111946908178-PORTUGUESE TART                                                                                           
+30/09/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000527343762744  30/09/25                              1,000.00            4,107.13   
+          04678-527343762744-NA                                                                                                             
+30/09/25  UPI-SIDDHANT CHATTERJEE-SIDDZ2003-2@OKHD  0000527344707582  30/09/25             658.00                               3,449.13   
+          FCBANK-PUNB0465100-527344707582-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+30/09/25  ME DC SI 435584XXXXXX6983 YOUTUBEGOOGLE   0000527317271385  30/09/25              89.00                               3,360.13   
+                                                                                                                                            
+01/10/25  INTEREST PAID TILL 30-SEP-2025            000000000000000   30/09/25                                 84.00            3,444.13   
+01/10/25  UPI-MR  SURAJ  MAHATO-9085342201@OKBIZAX  0000527460772740  01/10/25              40.00                               3,404.13   
+          IS-UTIB0000553-527460772740-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+02/10/25  UPI-ZOMATO LIMITED-ZOMATOFD.PAYU@HDFCBAN  0000527575254713  02/10/25             655.25                               2,748.88   
+          K-HDFC0MERUPI-527575254713-UPIINTENT                                                                                              
+02/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000527575239224  02/10/25                                655.00            3,403.88   
+          04678-527575239224-ROLLS                                                                                                          
+02/10/25  UPI-ZOMATO LIMITED-ZOMATO-ORDER@PTYBL-YE  0000527575263244  02/10/25             672.00                               2,731.88   
+          SB0PTMUPI-527575263244-ZOMATO PAYMENT                                                                                             
+02/10/25  UPI-ZOMATO-PAYZOMATO@HDFCBANK-HDFC0MERUP  0000527575290677  02/10/25             315.20                               2,416.68   
+          I-527575290677-SENT USING PAYTM U                                                                                                 
+02/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000527575302800  02/10/25                                987.00            3,403.68   
+          04678-527575302800-ROLL                                                                                                           
+03/10/25  UPI-MODERN LIFECARE MEDI-SBIPMOPAD.02221  0000527688253388  03/10/25             119.00                               3,284.68   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   7                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          1900452552-YM593272@SBIPAY-SBIP0123456-5                                                                                          
+          27688253388-SENT USING PAYTM U                                                                                                    
+03/10/25  POS 435584XXXXXX6983 MS B R FRESH         0000527622858963  03/10/25             977.00                               2,307.68   
+04/10/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101623425174  04/10/25              99.00                               2,208.68   
+          DSI@HDFCBANK-HDFC0MERUPI-101623425174-UP                                                                                          
+          I MANDATE                                                                                                                         
+04/10/25  UPI-RAHUL KUMAR-KAVYASHARMA3280@OKSBI-BA  0000112170526738  04/10/25             150.00                               2,058.68   
+          RB0SARMAT-112170526738-UPI                                                                                                        
+05/10/25  UPI-RAJNISH DEB-9954093897@PTYES-HDFC000  0000691778979439  05/10/25                              5,977.00            8,035.68   
+          4678-691778979439-OCT25 POCKET MONEY                                                                                              
+06/10/25  POS 435584XXXXXX6983 ZOMATO               0000527804685336  06/10/25             180.65                               7,855.03   
+06/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000527915514362  06/10/25                                180.00            8,035.03   
+          04678-527915514362-REYANS BREAKFAST                                                                                               
+06/10/25  POS 435584XXXXXX6983 ZOMATO               0000527909619582  06/10/25             350.75                               7,684.28   
+06/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000527920973144  06/10/25                                350.00            8,034.28   
+          04678-527920973144-2CHICKEN ROLLS                                                                                                 
+07/10/25  UPI-AADI HOSPITALITY SER-Q358644812@YBL-  0000528028682760  07/10/25              10.00                               8,024.28   
+          YESB0YBLUPI-528028682760-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+08/10/25  UPI-VRIJESH PURVE-GPAY-11250711790@OKBIZ  0000528147011490  08/10/25             140.00                               7,884.28   
+          AXIS-UTIB0000553-528147011490-SENT USING                                                                                          
+          PAYTM U                                                                                                                           
+09/10/25  POS 435584XXXXXX6983 ZOMATO               0000528212624563  09/10/25             259.40                               7,624.88   
+10/10/25  ACH D- TP ACH INDIANESIGN-1975605788      0000003261058856  10/10/25           1,000.00                               6,624.88   
+11/10/25  UPI-VRIJESH PURVE-GPAY-11250711790@OKBIZ  0000528483243215  11/10/25             140.00                               6,484.88   
+          AXIS-UTIB0000553-528483243215-SENT USING                                                                                          
+          PAYTM U                                                                                                                           
+12/10/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101685886860  12/10/25              70.00                               6,414.88   
+          DSI@HDFCBANK-HDFC0MERUPI-101685886860-UP                                                                                          
+          I MANDATE                                                                                                                         
+14/10/25  POS 435584XXXXXX6983 ZOMATO               0000528713619524  14/10/25             144.95                               6,269.93   
+15/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000528828473944  15/10/25              12.00                               6,257.93   
+          04678-528828473944-TRANSACTION                                                                                                    
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   8                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+15/10/25  NEFT CR-UTIB0001297-TB-ADITYA DEB CHOWDH  UTIBN62025101532  15/10/25                              9,500.00           15,757.93   
+          URY-UTIBN62025101532069972                069972                                                                                  
+16/10/25  SI HGAJP026B20145075969 AIRTEL -16/10/25  000000000000000   16/10/25             824.82                              14,933.11   
+18/10/25  UPI-AMAR MAHATO-PAYTM.S1IWROJ@PTY-YESB0M  0000529168205051  18/10/25              40.00                              14,893.11   
+          CHUPI-529168205051-SENT USING PAYTM U                                                                                             
+19/10/25  POS 435584XXXXXX6983 SWIGGY INSTAMART     0000529210335993  19/10/25             154.00                              14,739.11   
+19/10/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101749989039  20/10/25              70.00                              14,669.11   
+          DSI@HDFCBANK-HDFC0MERUPI-101749989039-UP                                                                                          
+          I MANDATE                                                                                                                         
+20/10/25  UPI-UJJWAL KUMAR DEB-9864045112@PTHDFC-H  0000529397867690  20/10/25                              1,000.00           15,669.11   
+          DFC0004678-529397867690-NA                                                                                                        
+21/10/25  UPI-AMAR MAHATO-PAYTM.S1IWROJ@PTY-YESB0M  0000529405715856  21/10/25              50.00                              15,619.11   
+          CHUPI-529405715856-SENT USING PAYTM U                                                                                             
+21/10/25  FD THROUGH MOBILE-50301234448895:ADITYA   MB21183312087T24  21/10/25           5,000.00                              10,619.11   
+          DEB CHOWDHURY                                                                                                                     
+21/10/25  UPI-THE GAUHATI DAIRY-9954093897@OKBIZAX  0000529406864824  21/10/25              40.00                              10,579.11   
+          IS-UTIB0000553-529406864824-TRANSACTION                                                                                           
+22/10/25  POS 435584XXXXXX6983 ZOMATO               0000529508111580  22/10/25             315.20                              10,263.91   
+23/10/25  ACH D- TP ACH INDIANESIGN-1981907029      0000003319582471  23/10/25           1,000.00                               9,263.91   
+23/10/25  UPI-ASSAM DON BOSCO UNIV-ASSAMDONBOSCOUN  0000529622485664  23/10/25           1,500.00                               7,763.91   
+          IVERSITYAC.RZP@AXISBANK-UTIB0000100-5296                                                                                          
+          22485664-PAYMENTGATEWAY                                                                                                           
+23/10/25  UPI-AMAR MAHATO-PAYTM.S1IWROJ@PTY-YESB0M  0000529623461947  23/10/25              50.00                               7,713.91   
+          CHUPI-529623461947-SENT USING PAYTM U                                                                                             
+24/10/25  UPI-AMAR MAHATO-PAYTM.S1IWROJ@PTY-YESB0M  0000529733674613  24/10/25              60.00                               7,653.91   
+          CHUPI-529733674613-SENT USING PAYTM U                                                                                             
+25/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000529844144387  25/10/25              89.50                               7,564.41   
+          04678-529844144387-NA                                                                                                             
+25/10/25  UPI-ADITYA DEB  CHOWDHUR-8822245112@PTAX  0000529837062883  25/10/25           3,000.00                               4,564.41   
+          IS-IOBA0000420-529837062883-NA                                                                                                    
+25/10/25  UPI-ADITYA DEB  CHOWDHUR-8822245112@PTHD  0000529847398405  25/10/25                              1,000.00            5,564.41   
+          FC-IOBA0000420-529847398405-NA                                                                                                    
+26/10/25  UPI-ISHAN GOUTAM  BARUAH-BARUAHAKU143@OK  0000529956027818  26/10/25             330.00                               5,234.41   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   9                                        Statement of accounts
+
+
+                                                                         Account Branch : PANBAZAR
+                                                                         Address        : HDFC BANK LTD,
+                                                                                          JASWANTA ROAD,PANBAZAR ,
+MR      ADITYA DEB CHOWDHURY                                                              GUWAHATI
+HOUSE NO 53 AT ROAD                                                      City           : GUWAHATI 781001
+BESIDE RAJMAHAL HOTEL PALTAN BAZAR                                       State          : ASSAM
+.                                                                        Phone no.      : 18002600/18001600
+GUWAHATI 781001                                                          Email          : ADITYJ81@GMAIL.COM
+ASSAM INDIA                                                              OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 184063926
+JOINT HOLDERS : RAJNISH DEB                                              Account No     : 50100485625660   PB Customer
+                                                                         A/C Open Date  : 09/12/2021
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/08/2025  To: 31/10/2025                         RTGS/NEFT IFSC : HDFC0004678    MICR : 781240020   
+                                                                         Branch Code    : 4678     Product Code : 193     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          SBI-SBIN0007976-529956027818-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+28/10/25  POS 435584XXXXXX6983 ZOMATO               0000530107484265  28/10/25             171.20                               5,063.21   
+28/10/25  UPI-RAJNISH DEB-9954093897@PTHDFC-HDFC00  0000530175992066  28/10/25                                171.00            5,234.21   
+          04678-530175992066-TOFFIN                                                                                                         
+28/10/25  POS 435584XXXXXX6983 ZOMATO               0000530107284968  28/10/25             192.20                               5,042.01   
+28/10/25  POS 435584XXXXXX6983 ZOMATO               0000530107188882  28/10/25             254.15                               4,787.86   
+28/10/25  UPI-APPLE MEDIA SERVICES-APPLESERVICES.B  0000101810484925  28/10/25              70.00                               4,717.86   
+          DSI@HDFCBANK-HDFC0MERUPI-101810484925-UP                                                                                          
+          I MANDATE                                                                                                                         
+30/10/25  POS 435584XXXXXX6983 RELIANCE RETAIL      0000530307378389  30/10/25           1,768.82                               2,949.04   
+30/10/25  UPI-ANUVA DEB-9954093897@PTYES-IOBA00004  0000391503463568  30/10/25                              1,768.00            4,717.04   
+          20-391503463568-JIOFIBER RECHARGE                                                                                                 
+30/10/25  CRV POS 435584******6983      ZOMATO      000000000000000   30/10/25                                171.20            4,888.24   
+31/10/25  ME DC SI 435584XXXXXX6983 YOUTUBEGOOGLE   0000530418168335  31/10/25              89.00                               4,799.24   
+                                                                                                                                            
+31/10/25  UPI-SUREKHA SAGAR WAGHCH-BHARATPE.8O0S0Q  0000113436882576  31/10/25             100.00                               4,699.24   
+          4J0Y35031@FBPE-FDRL0001382-113436882576-                                                                                          
+          PAY TO SUREKHA SAG                                                                                                                
+31/10/25  UPI-SUREKHA SAGAR WAGHCH-BHARATPE.8O0S0Q  0000113437721376  31/10/25             200.00                               4,499.24   
+          4J0Y35031@FBPE-FDRL0001382-113437721376-                                                                                          
+          PAY TO SUREKHA SAG                                                                                                                
+
+
+********  ****************************************  ****************  ********  ******************  ******************  ******************
+******************************************************************************************************************************************
+
+         STATEMENT SUMMARY  :- 
+           Opening Balance                                                      Debits              Credits          Closing Bal 
+                  2,506.01                                                  219,697.97           221,691.20             4,499.24 
+
+                                                                              Dr Count             Cr Count 
+                                                                                   102                   44 
+
+
+             Generated On:   29-Nov-2025 00:51                   Generated By: 184063926             Requesting Branch Code: NET 
+
+
+State account branch GSTN:18AAACH2702H1ZZ
+ HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax
+           Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013	 
+                                            ---  End Of Statement ---  
+
