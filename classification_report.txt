@@ -1,13 +1,13 @@
-Model: LinearRegression
+Model: SVR (RBF)
 
               precision    recall  f1-score   support
 
-           0       0.08      0.17      0.11         6
-           1       0.00      0.00      0.00         7
-           2       0.33      0.40      0.36         5
-           3       0.00      0.00      0.00         6
-           4       0.00      0.00      0.00         6
+           0       0.67      0.67      0.67         6
+           1       0.75      0.50      0.60         6
+           2       0.43      0.60      0.50         5
+           3       0.57      0.67      0.62         6
+           4       0.80      0.67      0.73         6
 
-    accuracy                           0.10        30
-   macro avg       0.08      0.11      0.09        30
-weighted avg       0.07      0.10      0.08        30
+    accuracy                           0.62        29
+   macro avg       0.64      0.62      0.62        29
+weighted avg       0.65      0.62      0.63        29
